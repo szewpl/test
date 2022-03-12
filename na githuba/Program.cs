@@ -10,7 +10,7 @@ namespace na_githuba
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("gasGSAGm");
+            Console.WriteLine("snasfnas");
         }
     }
 }
